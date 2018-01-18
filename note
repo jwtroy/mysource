@@ -1,1 +1,5 @@
 //作为笔记
+python笔记
+def 声明方法  一个py文件则作为一个类 import导入 以该类为对象  可以使用其中的方法以及变量
+数据结构的使用与java类似  python中以这种arr[0:2]取范围值，java则是arr[0,2] 
+元祖（[]）不可变  列表list可以变  name = "troy" 字符串转为列表list1 = list(name) 列表转为"".join(list1)
